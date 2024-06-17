@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\j8050\OneDrive\桌面\project-20480\project-2048(0)\Game.cpp(12,10): warning C4101: 'ch': 未參考的區域變數
+  Produce.cpp
+C:\Users\j8050\OneDrive\桌面\project-20480\project-2048(0)\Produce.cpp(10,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\j8050\OneDrive\桌面\project-20480\project-2048(0)\Produce.cpp(35,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  p2048.vcxproj -> C:\Users\j8050\OneDrive\桌面\project-20480\project-2048(0)\x64\Debug\p2048.exe

@@ -4,7 +4,9 @@
 報告主題:2048
 ---------------------------------------
 UML:
-![image](https://github.com/fewqbbb/21/assets/126649277/7efb402e-59a2-4902-bcef-e10df6dd9c1e)
+![Uploading image.png…]()
+
+
 
 
 遊戲方式:

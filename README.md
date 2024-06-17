@@ -4,7 +4,7 @@
 報告主題:2048
 ---------------------------------------
 UML:
-![Uploading image.png…]()
+![image](https://github.com/fewqbbb/21/assets/126649277/694b0abf-8f86-4849-b0bf-cb93db45a582)
 
 
 

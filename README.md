@@ -21,6 +21,7 @@ UML:
 
 2. 判斷數字移動得方向的相鄰方塊是否相同，若相同就相加,若沒結束再隨機新增一至兩個2或4的方塊
 ![image](https://github.com/fewqbbb/21/assets/126649277/b4abd4dc-a0e3-471b-a6e2-21618fc73fe1)
+![image](https://github.com/fewqbbb/21/assets/126649277/ba00efce-db91-42d5-a8d9-3d9b22b6d593)
 
 
 
